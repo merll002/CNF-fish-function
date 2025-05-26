@@ -2,6 +2,7 @@
 Finds packages and installs them to satisfy nonexistent commands or libraries. 
 # Prerequisites
 * Arch Linux
+* Yay (Alter the script to use pacman or paru or whatever)
 * Fish Shell
 # Installation:
 * Download function from repo
